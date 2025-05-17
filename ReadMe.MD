@@ -1,0 +1,1 @@
+If you wanna run the executable use ./go-todo add <taskname> on Linux
